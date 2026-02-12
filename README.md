@@ -1,10 +1,10 @@
-# Estudos em Python 🐍
+# Estudos para Front-End 🐍
 
 Repositório criado para registrar minha evolução em programação.
 
 ## 📚 Conteúdo
 - Lógica de programação
-- Python básico
+- html,css,js básico
 - Exercícios práticos
 
 ## 🚀 Objetivo
